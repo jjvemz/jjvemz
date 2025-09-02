@@ -5,9 +5,9 @@
 
 - 🔭 Currently working in: **XR-Labs**
 
-- 🌱 I’m currently learning **TypeScript, C# **
+- 🌱 I’m currently learning **Data analysis**
 
-- 💬 Ask me about **Typescrypt, C++ Python and more**
+- 💬 Ask me about **Scraping, Jupyter Notebook, python and more**
 
 - 📫 How to reach me **juanj.vergaram@gmail.com**
 

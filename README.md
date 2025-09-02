@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-jos%c3%a9-vergara-58a328193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-jos%c3%a9-vergara-58a328193/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/juan_vergaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juan_vergaram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1918nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1918nk" height="30" width="40" /></a>
 </p>
 

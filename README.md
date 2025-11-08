@@ -5,7 +5,7 @@
 
 - 🔭 Currently working in: **XR-Labs**
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning **Data science for machine learning projects**
 
 - 💬 Ask me about **Scraping, Jupyter Notebook, python and more**
 

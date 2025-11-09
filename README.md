@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Juan José Vergara</h1>
 <h3 align="center">🚀 Fullstack Developer turned Data Scientist | Exploring AI & Machine Learning</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jjvemz&theme=onedark" alt="jjvemz" />
-  </a>
-</p>
-
 ---
 
 - 🔭 **Currently working at:** XR-Labs — Building immersive and data-driven experiences.  

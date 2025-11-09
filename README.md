@@ -51,10 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjvemz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jjvemz" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjvemz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjvemz&theme=tokyonight" alt="GitHub streak stats" />
-</p>

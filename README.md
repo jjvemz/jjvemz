@@ -6,9 +6,9 @@
 - 🔭 **Currently working at:** XR-Labs — Building immersive and data-driven experiences.  
 - 🌱 **Currently learning:** Supervised & Unsupervised Learning, and Deep Learning with **TensorFlow**.  
 - 🧠 **Goal:** Transitioning from Fullstack to **Data Science**, integrating ML with software engineering.  
-- 💬 **Ask me about:** Machine learning,Data scraping, Jupyter Notebooks, APIs, Python, or data visualization.  
+- 💬 **Ask me about:** Machine learning, Data scraping, data visualization, Jupyter Notebooks, or APIs.  
 - 📫 **Reach me at:** [juanj.vergaram@gmail.com](mailto:juanj.vergaram@gmail.com)  
-- ⚡ **Fun fact:** I love martial arts, video games, anime, and good conversations over coffee or beer ☕🍺
+- ⚡ **Fun fact:** I love martial arts, video games, anime, and good conversations over coffee ☕
 - **Check out my latest project:** https://github.com/jjvemz/ML-and-DL-Bootcamp
 - **I've completed the Data Science Bootcamp from zero to mastery** you can check my completed projects on the following links, mind you they are in spanish
   - 🚜 BlueBook for Bulldozers - Predicción de Precios con Machine Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/BlueBookForBulldozers

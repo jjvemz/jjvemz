@@ -10,6 +10,10 @@
 - 📫 **Reach me at:** [juanj.vergaram@gmail.com](mailto:juanj.vergaram@gmail.com)  
 - ⚡ **Fun fact:** I love martial arts, video games, anime, and good conversations over coffee or beer ☕🍺
 - **Check out my latest project:** https://github.com/jjvemz/ML-and-DL-Bootcamp
+  - **I've completed the Data Science Bootcamp from zero to mastery** you can check my completed projects on the following links, mind you they are in spanish
+  - 🚜 BlueBook for Bulldozers - Predicción de Precios con Machine Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/BlueBookForBulldozers
+  - ❤️ Heart Disease Prediction - Clasificación con Machine Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/HeartDiseaseProject
+  - 🐶 Dog Vision - Clasificador de Razas con Deep Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/DogClassifierDL
 
 ---
 

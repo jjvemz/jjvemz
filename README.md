@@ -18,7 +18,6 @@
   - [Instagram scraper](https://github.com/jjvemz/InstagramScraper)
   - [Facebook scraper](https://github.com/jjvemz/apify-facebook-scraper)
   - [Tik Tok scraper](https://github.com/jjvemz/tiktok-scraper)
-  - 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>

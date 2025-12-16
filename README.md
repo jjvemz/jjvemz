@@ -14,7 +14,11 @@
   - 🚜 BlueBook for Bulldozers - Predicción de Precios con Machine Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/BlueBookForBulldozers
   - ❤️ Heart Disease Prediction - Clasificación con Machine Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/HeartDiseaseProject
   - 🐶 Dog Vision - Clasificador de Razas con Deep Learning : https://github.com/jjvemz/ML-and-DL-Bootcamp/tree/main/DogClassifierDL
-
+- **You can also see my work for Ubik as a Data Analyst in scraping**
+  - [Instagram scraper](https://github.com/jjvemz/InstagramScraper)
+  - [Facebook scraper](https://github.com/jjvemz/apify-facebook-scraper)
+  - [Tik Tok scraper](https://github.com/jjvemz/tiktok-scraper)
+  - 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
